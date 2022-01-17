@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/mustafaer__" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaer__?logo=twitter&style=for-the-badge" alt="mustafaer__" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🔭 I’m currently working with **Angular**
+
+- 🌱 I’m currently learning **ReactJS** and **NestJS**
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **mustafaerpro@gmail.com**
+- 📫 Contact: **[Telegram](https://t.me/mustafaer)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,11 +26,11 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mustafaer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mustafaer" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mustafaer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mustafaer" /></a></p><br><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaer&show_icons=true&locale=en&layout=compact" alt="mustafaer" /></p>
-
+<br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaer&show_icons=true&locale=en" alt="mustafaer" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaer&" alt="mustafaer" /></p>

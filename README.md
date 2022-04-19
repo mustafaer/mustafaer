@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with **Angular**
 
-- 🌱 I’m currently learning **ReactJS** and **NestJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **Angular**
 

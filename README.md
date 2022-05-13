@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaer" alt="mustafaer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mustafaer__" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaer__?logo=twitter&style=for-the-badge" alt="mustafaer__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mastercreagertv" target="blank"><img src="https://img.shields.io/twitter/follow/mastercreagertv?logo=twitter&style=for-the-badge" alt="mastercreagertv" /></a> </p>
 
 - 🔭 I’m currently working with **Angular**
 

@@ -1,12 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa!</h1>
-<h3 align="center">A software developer from Turkey.</h3>
+<h3 align="center">A software developer from Turkey, and the founder of <a href="https://github.com/MEDEVStudios">MEDEV Studios</a>.</h3>
 
 <p align="left">
   <a href="https://twitter.com/mustafaer_dev" target="_blank">
     <img alt="mustafaer_dev" src="https://img.shields.io/twitter/follow/mustafaer_dev?logo=x&style=for-the-badge"/>
   </a>
 </p>
+
+### 🎮 MEDEV Studios
+
+My independent studio makes mobile games and apps, and ships them: **11 games and 2 apps on Google Play**, among them [Chef Survivor](https://medevstudios.com/chef-survivor/), [CogGrid](https://medevstudios.com/coggrid/) and [Animix](https://medevstudios.com/animix/), plus the open-source tools pinned below.
+[medevstudios.com](https://medevstudios.com) · [Discord](https://discord.gg/9rbbkbhUt5) · [YouTube](https://www.youtube.com/@medevstudios) · [Google Play](https://play.google.com/store/apps/dev?id=5993572009780031088)
+
+### 👨‍💻 About me
 
 I'm a Front-End Developer with a strong passion for building modern, performant, and user-centric web applications. With professional experience in Angular, JavaScript, and TypeScript, I specialize in developing responsive and maintainable interfaces that prioritize usability and scalability.
 

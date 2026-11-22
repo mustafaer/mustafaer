@@ -10,7 +10,7 @@
 
 ### 🎮 MEDEV Studios
 
-My independent studio makes mobile games and apps, and ships them: **11 games and 2 apps on Google Play**, among them [Chef Survivor](https://medevstudios.com/chef-survivor/), [CogGrid](https://medevstudios.com/coggrid/) and [Animix](https://medevstudios.com/animix/), plus the open-source tools pinned below.
+My independent studio makes games, apps and software, and ships them: our own games and apps on Google Play, among them [Chef Survivor](https://medevstudios.com/chef-survivor/), [CogGrid](https://medevstudios.com/coggrid/) and [Animix](https://medevstudios.com/animix/), the open-source tools pinned below, and software for clients.
 [medevstudios.com](https://medevstudios.com) · [Discord](https://discord.gg/9rbbkbhUt5) · [YouTube](https://www.youtube.com/@medevstudios) · [Google Play](https://play.google.com/store/apps/dev?id=5993572009780031088)
 
 ### 👨‍💻 About me
